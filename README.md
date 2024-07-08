@@ -13,7 +13,7 @@ FileMonitor is a C# application designed to live monitor a file and display its 
 
 ## Screenshots
 
-Include screenshots of your application here to showcase its functionality and different themes.
+![Pink, Sky Blue, Dark And Light Themes](screenshots/fourthemes.png?raw=true "")
 
 ## Installation
 
