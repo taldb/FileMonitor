@@ -1,0 +1,7 @@
+name:Pink
+MenuItemBackground: #ff9ebb
+ToolStripBackground: #ff9ebb
+TextColor: #262626
+BackColor: #ffc2d4
+ToolStripItemText: #262626
+ToolStripItemBackground: #ff7aa2

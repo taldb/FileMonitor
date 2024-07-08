@@ -1,0 +1,16 @@
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\bin\Debug\net8.0-windows\FileMonitor.exe
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\bin\Debug\net8.0-windows\FileMonitor.deps.json
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\bin\Debug\net8.0-windows\FileMonitor.runtimeconfig.json
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\bin\Debug\net8.0-windows\FileMonitor.dll
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\bin\Debug\net8.0-windows\FileMonitor.pdb
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\FileMonitor.Form1.resources
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\FileMonitor.csproj.GenerateResource.cache
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\FileMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\FileMonitor.AssemblyInfoInputs.cache
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\FileMonitor.AssemblyInfo.cs
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\FileMonitor.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\FileMonitor.dll
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\refint\FileMonitor.dll
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\FileMonitor.pdb
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\FileMonitor.genruntimeconfig.cache
+D:\Desktop\Projects\Applications\C#\FileMonitor\FileMonitor\obj\Debug\net8.0-windows\ref\FileMonitor.dll
